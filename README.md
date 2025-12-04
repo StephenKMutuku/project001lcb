@@ -1,2 +1,6 @@
 # project001lcb
-files used are listed
+Canva
+VsCode for Web
+Github
+Google Workspace
+Reference Site
