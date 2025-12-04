@@ -3,3 +3,5 @@ link here: https://talinco.com.au/
 November 24th to December 06th 2025
 https://github.com/marketplace/actions/git-auto-commit
 https://wiki.dtonline.org/index.php/Table_of_File-Types
+
+The Github Pages link: https://stephenkmutuku.github.io/project001lcb/
